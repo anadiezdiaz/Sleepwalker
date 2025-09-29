@@ -1,0 +1,133 @@
+﻿  Actor.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Actor.cpp(8,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Actor.cpp(9,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Actor.cpp(28,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Animation.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(11,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(12,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(13,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(14,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(29,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(30,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(54,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(62,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Animation.cpp(63,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Cuerda.cpp
+  Dialog.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(7,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(7,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(9,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(9,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(11,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(11,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(13,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(13,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(15,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(15,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Dialog.cpp(61,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Door.cpp
+  Ghost.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Ghost.cpp(5,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Ghost.cpp(5,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Ghost.cpp(7,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Ghost.cpp(7,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Ghost.cpp(47,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Key.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Key.cpp(6,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Key.cpp(6,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Key.cpp(7,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Key.cpp(7,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Key.cpp(13,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MenuLayer.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\MenuLayer.cpp(56,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\MenuLayer.cpp(56,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  NPC.cpp
+  PlataformaMovil.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PlataformaMovil.cpp(9,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PlataformaMovil.cpp(9,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PlataformaMovil.cpp(15,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PlataformaMovil.cpp(38,8): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  PowerUpGhost.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PowerUpGhost.cpp(5,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PowerUpGhost.cpp(5,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PowerUpGhost.cpp(6,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PowerUpGhost.cpp(6,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\PowerUpGhost.cpp(12,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  RecolectableLife.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableLife.cpp(6,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableLife.cpp(6,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableLife.cpp(12,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  RecolectableTime.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableTime.cpp(6,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableTime.cpp(6,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\RecolectableTime.cpp(12,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Spider.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(9,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(9,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(12,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(12,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(79,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(85,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Spider.cpp(85,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Audio.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Audio.h(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Background.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Background.cpp(19,9): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Audio.h(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Game.cpp(67,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Game.cpp(67,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Audio.h(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\GameLayer.cpp(542,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\GameLayer.cpp(543,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\GameLayer.cpp(684,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\GameLayer.cpp(691,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Layer.cpp
+  Main.cpp
+  Generando código...
+  Compilando...
+  Player.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Audio.h(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(6,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(6,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(8,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(8,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(11,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(11,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(13,63): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(13,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(17,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(17,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(19,64): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(19,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(22,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(22,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(24,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(24,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(27,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(27,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(29,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(29,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Player.cpp(130,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Space.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(33,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(63,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(70,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(102,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(109,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(141,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(149,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Space.cpp(190,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  SpiderProjectile.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\SpiderProjectile.cpp(9,8): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Text.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Text.cpp(5,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Text.cpp(6,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Tile.cpp
+  Trap.cpp
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Trap.cpp(6,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Trap.cpp(6,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Sleepwalker\Trap.cpp(16,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Sleepwalker.vcxproj -> C:\Users\UO288302\Desktop\SLEEPWALKER\Sleepwalker\Sleepwalker\Sleepwalker\Debug\Sleepwalker.exe
